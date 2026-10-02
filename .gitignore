@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+auth.json
+*cookie*
+*token*
+*原始数据*/
+*私人*/
+*.zip
